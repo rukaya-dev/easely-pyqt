@@ -40,7 +40,7 @@ Here’s a glimpse of Easely’s interface:
 <table>
   <tr>
     <td align="center">
-      <img src="images/appointment.png" alt="Appointments" width="300"/>
+      <img src="images/appointments.png" alt="Appointments" width="300"/>
       <br>Appointments
     </td>
     <td align="center">
