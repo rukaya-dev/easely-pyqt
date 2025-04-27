@@ -1,0 +1,20 @@
+create table clinics (
+  clinic_id serial not null primary key,
+  name character varying not null,
+  address text not null,
+  phone_number text,
+  email character varying,
+  website text,
+  fax_number character varying,
+  contact_person character varying,
+  contact_person_phone text,
+  contact_person_email character varying,
+  services_offered text,
+  clinic_hours jsonb,
+  registration_number character varying,
+  latitude numeric,
+  longitude numeric,
+  created_at timestamp  with time zone default now(),
+  updated_at timestamp with time zone,
+  logo_image_path character varying
+);

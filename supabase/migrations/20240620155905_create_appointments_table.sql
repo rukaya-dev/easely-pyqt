@@ -1,0 +1,25 @@
+
+create table appointments (
+  appointment_id serial not null primary key,
+  service_name character varying references services (name),
+  patient_id integer references patients (patient_id),
+  doctor_id integer references doctors (doctor_id),
+  associate_id integer references assistants (assistant_id),
+  service_sector_id integer references service_sectors (sector_id),
+  appointment_date date default now() not null,
+  appointment_time time not null,
+  appointment_type character varying,
+  reason_for_visit text,
+  notes text,
+  check_in_time time,
+  check_out_time time,
+  cancellation_time time,
+  re_scheduled_date date default now(),
+  re_scheduled_time time,
+  payment_status character varying default 'pending',
+  created_at timestamp with time zone default now(),
+  updated_at timestamp with time zone,
+  appointment_status character varying default 'scheduled',
+  doctor_service_relation_id integer references doctors_services_relation (doctor_service_relation_id),
+  cancellation_date date default now()
+);

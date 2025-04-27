@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.13" height="27.13" viewBox="0 0 27.13 27.13">
+    <!-- Circle -->
+    <circle cx="13.565" cy="13.565" r="13.565" fill="#9ca3af"/>
+
+    <!-- Line inside the Circle, adjusted and centered -->
+    <path d="M4,13.565H23.13" stroke-width="2" stroke="#fff" fill="none"/>
+</svg>

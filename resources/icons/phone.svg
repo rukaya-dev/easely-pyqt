@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_106" width="20" height="20" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_10" clip-path="url(#clip-path)">
+    <path id="smartphone_24dp_FILL1_wght300_GRAD0_opsz24" d="M6.96-1.429a1.662,1.662,0,0,1-1.222-.5,1.662,1.662,0,0,1-.5-1.222V-19.707a1.662,1.662,0,0,1,.5-1.222,1.662,1.662,0,0,1,1.222-.5H15.9a1.662,1.662,0,0,1,1.222.5,1.662,1.662,0,0,1,.5,1.222V-3.15a1.662,1.662,0,0,1-.5,1.222,1.662,1.662,0,0,1-1.222.5ZM6.667-5.476H16.19v-11.9H6.667Z" transform="translate(-1.429 21.429)" fill="#facc15"/>
+  </g>
+</svg>

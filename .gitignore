@@ -1,0 +1,25 @@
+venv/
+build/
+dist/
+/venv/
+/.idea
+.idea/
+.idea
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+supabase/config.toml
+
+# General
+*.log
+.DS_Store
+.env

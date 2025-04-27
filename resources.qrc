@@ -1,0 +1,201 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/dashboard.svg</file>
+        <file>resources/icons/add.svg</file>
+        <file>resources/icons/available_date.svg</file>
+        <file>resources/icons/selected_date.svg</file>
+        <file>resources/icons/success_notification.svg</file>
+        <file>resources/icons/error_notification.svg</file>
+        <file>resources/icons/bold.svg</file>
+        <file>resources/icons/active_bold.svg</file>
+        <file>resources/icons/file.svg</file>
+        <file>resources/icons/make_report.svg</file>
+        <file>resources/icons/reports.svg</file>
+        <file>resources/icons/active_reports.svg</file>
+        <file>resources/icons/filled_person.svg</file>
+        <file>resources/icons/category.svg</file>
+        <file>resources/icons/phone.svg</file>
+        <file>resources/icons/download.svg</file>
+        <file>resources/icons/key.svg</file>
+        <file>resources/icons/info.svg</file>
+        <file>resources/icons/lock_password.svg</file>
+        <file>resources/icons/fill_email.svg</file>
+        <file>resources/icons/dial.svg</file>
+        <file>resources/icons/location.svg</file>
+        <file>resources/icons/website.svg</file>
+        <file>resources/icons/re_schedule.svg</file>
+        <file>resources/icons/cancel_appointment.svg</file>
+        <file>resources/icons/patients.svg</file>
+        <file>resources/icons/staff.svg</file>
+        <file>resources/icons/active_staff.svg</file>
+        <file>resources/icons/template.svg</file>
+        <file>resources/icons/appointment.svg</file>
+        <file>resources/icons/active_appointment.svg</file>
+        <file>resources/icons/layout.svg</file>
+        <file>resources/icons/history.svg</file>
+        <file>resources/icons/clock.svg</file>
+        <file>resources/icons/close.svg</file>
+        <file>resources/icons/white_clock.svg</file>
+        <file>resources/icons/white_calendar.svg</file>
+        <file>resources/icons/black_history.svg</file>
+        <file>resources/icons/dollar.svg</file>
+        <file>resources/icons/vertical_menu.svg</file>
+        <file>resources/icons/doctor_service.svg</file>
+        <file>resources/icons/settings.svg</file>
+        <file>resources/icons/revert.svg</file>
+        <file>resources/icons/activity_center.svg</file>
+        <file>resources/icons/active_activity_center.svg</file>
+        <file>resources/icons/active_logo.svg</file>
+        <file>resources/icons/active_dashboard.svg</file>
+        <file>resources/icons/active_add.svg</file>
+        <file>resources/icons/active_eye.svg</file>
+        <file>resources/icons/active_file.svg</file>
+        <file>resources/icons/active_category.svg</file>
+        <file>resources/icons/active_patients.svg</file>
+        <file>resources/icons/options.svg</file>
+        <file>resources/icons/active_options.svg</file>
+        <file>resources/icons/active_template.svg</file>
+        <file>resources/icons/active_layout.svg</file>
+        <file>resources/icons/active_history.svg</file>
+        <file>resources/icons/active_check.svg</file>
+        <file>resources/icons/branch_collapse.svg</file>
+        <file>resources/icons/active_settings.svg</file>
+        <file>resources/icons/notification.svg</file>
+        <file>resources/icons/expand_more.svg</file>
+        <file>resources/icons/search.svg</file>
+        <file>resources/icons/sign_out.svg</file>
+        <file>resources/icons/moving.svg</file>
+        <file>resources/icons/person.svg</file>
+        <file>resources/icons/new_cases.svg</file>
+        <file>resources/icons/income.svg</file>
+        <file>resources/icons/arrow_back.svg</file>
+        <file>resources/icons/arrow_forward.svg</file>
+        <file>resources/icons/filter.svg</file>
+        <file>resources/icons/white_add.svg</file>
+        <file>resources/icons/calendar.svg</file>
+        <file>resources/icons/eye.svg</file>
+        <file>resources/icons/edit.svg</file>
+        <file>resources/icons/delete.svg</file>
+        <file>resources/icons/active_remove.svg</file>
+        <file>resources/icons/upload.svg</file>
+        <file>resources/icons/remove.svg</file>
+        <file>resources/icons/spin_up.svg</file>
+        <file>resources/icons/spin_down.svg</file>
+        <file>resources/icons/align_left.svg</file>
+        <file>resources/icons/align_right.svg</file>
+        <file>resources/icons/align_center.svg</file>
+        <file>resources/icons/align_justify.svg</file>
+        <file>resources/icons/appointment_calendar.svg</file>
+        <file>resources/icons/ordered_list.svg</file>
+        <file>resources/icons/un_ordered_list.svg</file>
+        <file>resources/icons/paint.svg</file>
+        <file>resources/icons/star.svg</file>
+        <file>resources/icons/line_height.svg</file>
+        <file>resources/icons/back_btn.svg</file>
+        <file>resources/icons/mail.svg</file>
+        <file>resources/icons/lock.svg</file>
+        <file>resources/icons/plus.svg</file>
+        <file>resources/icons/active_plus.svg</file>
+        <file>resources/icons/dark_logo.svg</file>
+        <file>resources/icons/pagination_arrow_forward.svg</file>
+        <file>resources/icons/pagination_arrow_back.svg</file>
+        <file>resources/icons/billing.svg</file>
+        <file>resources/icons/active_billing.svg</file>
+        <file>resources/icons/patient_analytic.svg</file>
+        <file>resources/icons/trend_up.svg</file>
+        <file>resources/icons/revenue_analytic.svg</file>
+        <file>resources/icons/reports_analytic.svg</file>
+        <file>resources/icons/appointments_analytic.svg</file>
+        <file>resources/icons/trend_down.svg</file>
+        <file>resources/icons/undo.svg</file>
+        <file>resources/icons/redo.svg</file>
+        <file>resources/icons/404.svg</file>
+        <file>resources/icons/no_data.svg</file>
+
+        <file>resources/images/placeholder.jpg</file>
+        <file>resources/images/application_icon.png</file>
+        <file>resources/images/splash-logo.png</file>
+        <file>resources/images/loading.gif</file>
+
+        <file>resources/fonts/Cambria/Cambria-Font-For Android.ttf</file>
+        <file>resources/fonts/Cambria/Cambria-Font-For-Linux.ttf</file>
+        <file>resources/fonts/Cambria/Cambria-Font-For-MAC.ttf</file>
+        <file>resources/fonts/Cambria/Cambria-Font-For-Windows.ttf</file>
+
+        <file>resources/fonts/Georgia/GeorgiaJoyDemoRegular.ttf</file>
+
+        <file>resources/fonts/Lato/Lato-Black.ttf</file>
+        <file>resources/fonts/Lato/Lato-BlackItalic.ttf</file>
+        <file>resources/fonts/Lato/Lato-Bold.ttf</file>
+        <file>resources/fonts/Lato/Lato-BoldItalic.ttf</file>
+        <file>resources/fonts/Lato/Lato-Italic.ttf</file>
+        <file>resources/fonts/Lato/Lato-Light.ttf</file>
+        <file>resources/fonts/Lato/Lato-LightItalic.ttf</file>
+        <file>resources/fonts/Lato/Lato-Regular.ttf</file>
+        <file>resources/fonts/Lato/Lato-Thin.ttf</file>
+        <file>resources/fonts/Lato/Lato-ThinItalic.ttf</file>
+
+        <file>resources/fonts/Poppins/Poppins-Black.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-BlackItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-Bold.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-BoldItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-ExtraBold.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-ExtraBoldItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-ExtraLight.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-ExtraLightItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-Italic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-LightItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-Medium.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-MediumItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-Regular.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-SemiBold.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-SemiBoldItalic.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-Thin.ttf</file>
+        <file>resources/fonts/Poppins/Poppins-ThinItalic.ttf</file>
+
+        <file>resources/fonts/Tahoma/TAHOMAB0.TTF</file>
+        <file>resources/fonts/Tahoma/TAHOMABD.TTF</file>
+        <file>resources/fonts/Tahoma/TAHOMA_0.TTF</file>
+        <file>resources/fonts/Tahoma/Tahoma Regular font.ttf</file>
+
+        <file>resources/fonts/arial/ARIBL0.ttf</file>
+        <file>resources/fonts/arial/ArialTh.ttf</file>
+        <file>resources/fonts/arial/Arialn.ttf</file>
+        <file>resources/fonts/arial/GEO_AI__.ttf</file>
+        <file>resources/fonts/arial/G_ari_bd.ttf</file>
+        <file>resources/fonts/arial/G_ari_i.ttf</file>
+        <file>resources/fonts/arial/arial.ttf</file>
+
+        <file>resources/fonts/calibri/Calibri Bold Italic.ttf</file>
+        <file>resources/fonts/calibri/Calibri Bold.ttf</file>
+        <file>resources/fonts/calibri/Calibri Italic.ttf</file>
+        <file>resources/fonts/calibri/Calibri Light Italic.ttf</file>
+        <file>resources/fonts/calibri/Calibri Light.ttf</file>
+        <file>resources/fonts/calibri/Calibri Regular.ttf</file>
+
+        <file>resources/fonts/garamond/GaramondLibre-Bold.otf</file>
+        <file>resources/fonts/garamond/GaramondLibre-Italic.otf</file>
+        <file>resources/fonts/garamond/GaramondLibre-Regular.otf</file>
+
+        <file>resources/fonts/helvetica/Helvetica-Bold.ttf</file>
+        <file>resources/fonts/helvetica/Helvetica-BoldOblique.ttf</file>
+        <file>resources/fonts/helvetica/Helvetica-Oblique.ttf</file>
+        <file>resources/fonts/helvetica/Helvetica.ttf</file>
+        <file>resources/fonts/helvetica/helvetica-compressed-5871d14b6903a.otf</file>
+        <file>resources/fonts/helvetica/helvetica-light-587ebe5a59211.ttf</file>
+        <file>resources/fonts/helvetica/helvetica-rounded-bold-5871d05ead8de.otf</file>
+
+        <file>resources/fonts/times_newer_roman/TimesNewerRoman-Bold.otf</file>
+        <file>resources/fonts/times_newer_roman/TimesNewerRoman-BoldItalic.otf</file>
+        <file>resources/fonts/times_newer_roman/TimesNewerRoman-Italic.otf</file>
+        <file>resources/fonts/times_newer_roman/TimesNewerRoman-Regular.otf</file>
+
+        <file>resources/fonts/trebuchet/Trebuchet-MS-Italic.ttf</file>
+        <file>resources/fonts/trebuchet/trebuc.ttf</file>
+
+        <file>resources/fonts/verdana/verdana-bold-italic.ttf</file>
+        <file>resources/fonts/verdana/verdana-bold.ttf</file>
+        <file>resources/fonts/verdana/verdana.ttf</file>
+
+    </qresource>
+</RCC>

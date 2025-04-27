@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="back_button"  transform="translate(-109 -106)">
+    <circle id="Ellipse_12"  cx="11" cy="11" r="11" transform="translate(109 106)" fill="#2563EB"/>
+    <path id="Icon_metro-expand-more"  d="M16.589,9.448,12.5,13.541,8.4,9.448,7.141,10.711,12.5,16.067l5.356-5.356Z" transform="translate(132.964 105.188) rotate(93)" fill="#fff"/>
+  </g>
+</svg>
